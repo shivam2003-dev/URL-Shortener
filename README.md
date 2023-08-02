@@ -40,6 +40,11 @@ You can also shorten a URL directly from the command line:
 
 This will print the original URL and the shortened URL to the console.
 
+### Screenshot
+![image](https://github.com/shivam2003-dev/URL-Shortener/assets/78433942/53c59e56-1289-4d1d-bfa8-6630d0929bc1)
+
+
+
 ### Limitations
 - The shortened URLs are stored in memory, so they will be lost when the server is stopped.
 - The command-line interface only shortens URLs and does not provide a way to access the original URLs.
